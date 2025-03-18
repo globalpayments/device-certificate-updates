@@ -1,0 +1,1 @@
+# Certifiates for Sectigo Devices
